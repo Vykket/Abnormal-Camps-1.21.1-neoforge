@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "atmospheric:village_scrubland",
+      "required": false
+    }
+  ]
+}

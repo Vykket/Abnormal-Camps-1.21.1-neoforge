@@ -1,0 +1,34 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 91231128,
+    "separation": 8,
+    "spacing": 37
+  },
+  "structures": [
+    {
+      "structure": "abnormalcamps:abandoned_camp_maple_forest",
+      "weight": 1
+    },
+    {
+      "structure": "abnormalcamps:abandoned_camp_kousa_jungle",
+      "weight": 1
+    },
+    {
+      "structure": "abnormalcamps:abandoned_camp_rainforest",
+      "weight": 1
+    },
+    {
+      "structure": "abnormalcamps:abandoned_camp_laurel_forest",
+      "weight": 1
+    },
+    {
+      "structure": "abnormalcamps:abandoned_camp_aspen_parkland",
+      "weight": 1
+    },
+    {
+      "structure": "abnormalcamps:abandoned_camp_pumpkin_fields",
+      "weight": 1
+    }
+  ]
+}

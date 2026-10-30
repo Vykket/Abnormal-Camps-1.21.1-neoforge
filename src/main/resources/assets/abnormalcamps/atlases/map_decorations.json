@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "abnormalcamps:map/decorations/maple_hut"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "abnormalcamps:map/decorations/kousa_sanctum"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "abnormalcamps:map/decorations/arid_garden"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "abnormalcamps:map/decorations/village_scrubland"
+    }
+  ]
+}

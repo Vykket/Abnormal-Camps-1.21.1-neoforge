@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "atmospheric:aspen_parkland",
+      "required": false
+    }
+  ]
+}

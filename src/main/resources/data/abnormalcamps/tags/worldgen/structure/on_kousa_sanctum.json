@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "atmospheric:kousa_sanctum",
+      "required": false
+    }
+  ]
+}

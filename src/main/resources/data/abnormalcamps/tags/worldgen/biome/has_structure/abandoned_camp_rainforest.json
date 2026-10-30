@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "atmospheric:rainforest",
+      "required": false
+    },
+    {
+      "id": "atmospheric:sparse_rainforest",
+      "required": false
+    }
+  ]
+}
