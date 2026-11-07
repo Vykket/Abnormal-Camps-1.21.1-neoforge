@@ -29,6 +29,10 @@
     {
       "structure": "abnormalcamps:abandoned_camp_pumpkin_fields",
       "weight": 1
+    },
+    {
+      "structure": "abnormalcamps:abandoned_camp_marsh",
+      "weight": 1
     }
   ]
 }
